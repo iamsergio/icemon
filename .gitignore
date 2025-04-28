@@ -85,3 +85,7 @@ icemon
 *.BASE.*
 *.LOCAL.*
 *.REMOTE.*
+build-dev
+
+.cache
+compile_commands.json
